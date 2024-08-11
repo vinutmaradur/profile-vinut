@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/profile-vinut/static/css/main.bf538fe7.css",
+    "main.js": "/profile-vinut/static/js/main.3ef4d194.js",
+    "static/media/MyPic.jpg": "/profile-vinut/static/media/MyPic.b71749741fd53df50a3f.jpg",
+    "index.html": "/profile-vinut/index.html",
+    "main.bf538fe7.css.map": "/profile-vinut/static/css/main.bf538fe7.css.map",
+    "main.3ef4d194.js.map": "/profile-vinut/static/js/main.3ef4d194.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.3ef4d194.js"
+  ]
+}
